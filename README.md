@@ -1,7 +1,7 @@
 # debugproject 
-# Nick Stern
 
-Summarize the project and what problem it was solving.
+
+# Summarize the project and what problem it was solving.
 This project was to look over and debug some code. I have uploaded the changes made to the code so that it is actually functional and working!
 
 What did you do particularly well?
